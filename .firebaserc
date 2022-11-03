@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ticketnew-f23f3",
+    "deploy": "ticketnew-f23f3"
+  },
+  "targets": {},
+  "etags": {}
+}
